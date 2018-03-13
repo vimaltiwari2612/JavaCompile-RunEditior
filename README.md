@@ -20,7 +20,7 @@ Features:
 #HowToRunIt
 
 1. open cmd
-2. type cd "your path upto it"\build\libs
+2. type cd "your path upto Editor.jar"
 3. inside libs type java -cp Editor.jar;. com.editor.pl.ApplicationPanel
 
 
